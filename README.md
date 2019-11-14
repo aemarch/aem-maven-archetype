@@ -19,7 +19,7 @@ Errors like:
 
 If you're reciving a similar error do the following:
 
-1) Download the aem-project-archetype-23-SNAPSHOT.jar from this project's src folder.
+1) Download the aem-project-archetype-23-SNAPSHOT.jar from this project.
 2) Update the -DarchetypeRepository value in the command below to the location of the downloaded jar. 
 3) Create the root project folder and run 
 
